@@ -1,7 +1,9 @@
 h1 {
-    color: blueviolet
-    font-size: 24px;
+    color: rgb(139, 28, 243);
+    font-size: 36px;
     font-weight: 700;
+    border-style: double;
+    text-align: center;
 }
 
 textarea {
